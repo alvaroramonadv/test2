@@ -1,0 +1,15 @@
+/* TEAM */
+    Developer: Ramon Araújo Advogados Team
+    Site: https://ramonaraujo.adv.br
+    Location: Fortaleza, CE, Brasil
+
+/* SITE */
+    Last update: 2024/01/01
+    Language: Português/Brasil
+    Doctype: HTML5
+    IDE: Lovable Platform
+    
+/* THANKS */
+    Technology: React, TypeScript, Tailwind CSS
+    Platform: Lovable
+    Design: Modern Legal Practice
